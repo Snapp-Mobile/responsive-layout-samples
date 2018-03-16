@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="architecture" type="id"/>
+    <item name="industrial" type="id"/>
+    <item name="interior" type="id"/>
+    <item name="realestate" type="id"/>
+    
+</resources>
